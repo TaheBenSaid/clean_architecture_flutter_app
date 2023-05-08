@@ -1,1 +1,1 @@
-const NO_INTERNET_ERROR_MESSAGE = "Pleade check your internet connection";
+const NO_INTERNET_ERROR_MESSAGE = "Please check your internet connection";
